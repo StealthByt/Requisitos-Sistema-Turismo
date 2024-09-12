@@ -48,5 +48,3 @@ Este projeto implementa um algoritmo simples em C para classificar a prioridade 
 
 - `algoritmo.c`: Código fonte do algoritmo.
 - `README.md`: Documentação do projeto.
-
-```
