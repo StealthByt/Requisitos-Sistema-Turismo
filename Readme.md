@@ -29,7 +29,7 @@ Este projeto implementa um algoritmo simples em C para classificar a prioridade 
 
    ```bash
    git clone https://github.com/StealthByt/Requisitos-Sistema-Turismo.git
-   cd Prioridade-Requisit0s
+   cd Requisitos-Sistema-Turismo
    ```
 
 2. Compile o código:
