@@ -3,7 +3,8 @@
 
 ## Descrição 📋
 
-Este projeto implementa um algoritmo simples em C para classificar a prioridade de requisitos de um software em alta, média ou baixa, com base no impacto no usuário e na viabilidade técnica.
+Este projeto implementa um algoritmo simples em C para classificar a prioridade de requisitos
+de um software em alta, média ou baixa, com base no impacto no usuário e na viabilidade técnica.
 
 ## Requisitos 💡
 
