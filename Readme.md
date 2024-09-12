@@ -28,7 +28,7 @@ Este projeto implementa um algoritmo simples em C para classificar a prioridade 
 1. Clone o repositório:
 
    ```bash
-   git clone https://github.com/StealthByt/Prioridade-Requisit0s.git
+   git clone https://github.com/StealthByt/Requisitos-Sistema-Turismo.git
    cd Prioridade-Requisit0s
    ```
 
